@@ -35,9 +35,11 @@ O objetivo do projeto é facilitar a verificação de validade e dados técnicos
 
 ## Tela Inicial
 
-Icone do aplicativo desenvolvido:
+#### Icone do aplicativo desenvolvido:
 
-<img src="assets/readme/icone.jpeg" width="300">
+<p align="center">
+<img src="assets/readme/icone.jpeg" width="100">
+</p>
 
 Tela inicial/principal
 
