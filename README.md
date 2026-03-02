@@ -38,35 +38,52 @@ O objetivo do projeto é facilitar a verificação de validade e dados técnicos
 #### Icone do aplicativo desenvolvido:
 
 <p align="center">
-<img src="assets/readme/icone.jpeg" width="100">
+<img src="assets/readme/icone.jpeg" width="150">
 </p>
 
-Tela inicial/principal
+#### Tela inicial/principal
 
-![Tela Inicial](assets/readme/tela.jpeg)
+<p align="center">
+<img src="assets/readme/tela.jpeg" width="600">
+</p>
 
 ---
 
 ## Objeto de teste
 
 Foi utilizado um macacão para teste e posterior validação
-![Macacão](assets/readme/objeto.jpeg)
 
-Número CA do EPI
-![Numero CA](assets/readme/CA.jpeg)
+<p align="center">
+<img src="assets/readme/objeto.jpeg" width="400">
+</p>
+
+#### Número CA do EPI
+
+<p align="center">
+<img src="assets/readme/ca.jpeg" width="150">
+</p>
 
 ## Inserção do Número do CA
 
 O macacão foi provado estar inapto para uso
-![Demosntração](assets/readme/vencido.png)
 
-Outros dados:
+<p align="center">
+<img src="assets/readme/vencido.jpeg" width="150">
+</p>
 
-Um EPI dentro da validade
-![CA Válido](assets/readme/vencido.png)
+#### Outros dados:
 
-Um erro de inserção
-![CA inválido](assets/readme/erro.png)
+##### Um EPI dentro da validade
+
+<p align="center">
+<img src="assets/readme/valido.jpeg" width="150">
+</p>
+
+##### Um erro de inserção
+
+<p align="center">
+<img src="assets/readme/erro.jpeg" width="150">
+</p>
 
 ---
 
