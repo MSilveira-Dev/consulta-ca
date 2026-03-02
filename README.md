@@ -44,7 +44,7 @@ O objetivo do projeto é facilitar a verificação de validade e dados técnicos
 #### Tela inicial/principal
 
 <p align="center">
-<img src="assets/readme/tela.jpeg" width="600">
+<img src="assets/readme/tela.jpeg" width="400">
 </p>
 
 ---
@@ -54,13 +54,13 @@ O objetivo do projeto é facilitar a verificação de validade e dados técnicos
 Foi utilizado um macacão para teste e posterior validação
 
 <p align="center">
-<img src="assets/readme/objeto.jpeg" width="400">
+<img src="assets/readme/objeto.jpeg" width="300">
 </p>
 
 #### Número CA do EPI
 
 <p align="center">
-<img src="assets/readme/ca.jpeg" width="150">
+<img src="assets/readme/ca.jpeg" width="300">
 </p>
 
 ## Inserção do Número do CA
@@ -68,7 +68,7 @@ Foi utilizado um macacão para teste e posterior validação
 O macacão foi provado estar inapto para uso
 
 <p align="center">
-<img src="assets/readme/vencido.jpeg" width="150">
+<img src="assets/readme/vencido.jpeg" width="400">
 </p>
 
 #### Outros dados:
@@ -76,13 +76,13 @@ O macacão foi provado estar inapto para uso
 ##### Um EPI dentro da validade
 
 <p align="center">
-<img src="assets/readme/valido.jpeg" width="150">
+<img src="assets/readme/valido.jpeg" width="400">
 </p>
 
 ##### Um erro de inserção
 
 <p align="center">
-<img src="assets/readme/erro.jpeg" width="150">
+<img src="assets/readme/erro.jpeg" width="400">
 </p>
 
 ---
