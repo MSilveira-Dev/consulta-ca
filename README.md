@@ -34,7 +34,7 @@ O objetivo do projeto é facilitar a verificação de validade e dados técnicos
 # Build do APK
 
 <p align="center">
-<img src="assets/readme/buld.png" width="400">
+<img src="assets/readme/build.png" width="400">
 </p>
 
 ---
