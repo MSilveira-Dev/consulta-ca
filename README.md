@@ -31,6 +31,14 @@ O objetivo do projeto é facilitar a verificação de validade e dados técnicos
 
 ---
 
+# Build do APK
+
+<p align="center">
+<img src="assets/readme/buld.png" width="400">
+</p>
+
+---
+
 # Demonstração do Aplicativo
 
 ## Tela Inicial
@@ -95,6 +103,10 @@ A aplicação se comunica com uma API desenvolvida em Flask responsável por:
 - Realizar a consulta
 - Processar os dados
 - Retornar as informações estruturadas em JSON
+
+<p align="center">
+<img src="assets/readme/resposta_api.png" width="400">
+</p>
 
 ---
 
